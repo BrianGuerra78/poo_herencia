@@ -1,0 +1,45 @@
+
+
+java:S1192 "wDefine a constant instead of duplicating this literal "======================================================" 3 times.(Úñªâ
+†
+java:S1192"kDefine a constant instead of duplicating this literal "==========Creando instancia ==============" 3 times.(êÁÒãùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êÁÒãùÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(²Ñãßúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êÁÒãùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êÁÒãùÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Úñªâ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Úñªâ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Úñªâ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(õÛÃ©
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(§§ô…úÿÿÿÿ
+a
+java:S6201,"FReplace this instanceof check and cast with 'instanceof Alumno alumno'(¹”üìùÿÿÿÿ
+a
+java:S6201,"FReplace this instanceof check and cast with 'instanceof Alumno alumno'(¹”üìùÿÿÿÿ
+a
+java:S6201,"FReplace this instanceof check and cast with 'instanceof Alumno alumno'(¹”üìùÿÿÿÿ
+a
+java:S6201,"FReplace this instanceof check and cast with 'instanceof Alumno alumno'(¹”üìùÿÿÿÿ
+h
+java:S6201,"FReplace this instanceof check and cast with 'instanceof Alumno alumno'(¹”üìùÿÿÿÿ8ÔÍ«ôÅ0
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(á¨˜êûÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(¶ğÓšÿÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(öìßşÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ş‰¹£
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(´èĞÆ
+{
+java:S62012"`Replace this instanceof check and cast with 'instanceof AlumnoInternacional alumnointernacional'(¥Ø©Öùÿÿÿÿ
+{
+java:S62012"`Replace this instanceof check and cast with 'instanceof AlumnoInternacional alumnointernacional'(¥Ø©Öùÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.( î
+M	java:S1064"9Replace this use of System.out or System.err by a logger.(²œ9
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(Óı¡¾øÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.( ÛŸ÷
+M	java:S1068"9Replace this use of System.out or System.err by a logger.(€ºŞu
+e
+java:S6201:"JReplace this instanceof check and cast with 'instanceof Profesor profesor'(Ğ±Ô÷ùÿÿÿÿ
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(èŒõÿÿÿÿÿ8ÁãêóÅ0
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(›ãÃşÿÿÿÿÿ8ÁãêóÅ0
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ò†óşÿÿÿÿ8ÍÇ¡ôÅ0
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(ï‘ƒä8Á¦«ôÅ0
